@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="st_num">Student Number</string>
+    <string name="st_name">Student Name</string>
+    <string name="st_marks">Student Marks</string>
+    <string name="move">Move To Target Activity</string>
+</resources>
